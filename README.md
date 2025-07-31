@@ -81,6 +81,9 @@ Use the sidebar to input the required details and **instantly view the predicted
 ├── salary_prediction_model.pkl
 ├── 01_Salary_Prediction_Model_Comparison.ipynb
 ├── 02_Salary_Prediction_FinalModel_for_App.ipynb
+├── image/
+│   ├── actual vs prediction.png
+│   └── app Output.png
 └── README.md
 ```
 
@@ -97,11 +100,11 @@ Use the sidebar to input the required details and **instantly view the predicted
 
 ### 🔍 Model Comparison Notebook
 
-![Notebook Screenshot](https://github.com/Shiwansh2601/Salary-Prediction-App/assets/your-image-path/notebook-screenshot.png)
+![Notebook Screenshot](https://github.com/Shiwansh2601/Salary-Prediction-App/blob/main/image/actual%20vs%20prediction.png)
 
 ### 🖥️ Streamlit App Output
 
-![App Screenshot](https://github.com/Shiwansh2601/Salary-Prediction-App/assets/your-image-path/app-screenshot.png)
+![App Screenshot](https://github.com/Shiwansh2601/Salary-Prediction-App/blob/main/image/app%20Output.png)
 
 ---
 
@@ -113,12 +116,9 @@ Found a bug? Have a suggestion? Feel free to [open an issue](https://github.com/
 ---
 
 ## 👨‍💻 Author
+**Shiwansh Tiwari**
 
-**Shiwansh Gupta**
-🔗 [GitHub: Shiwansh2601](https://github.com/Shiwansh2601)
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-
----
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9b00e8,100:6e44ff&height=100&section=footer"/>
 </p>
+
