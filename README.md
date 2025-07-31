@@ -91,8 +91,7 @@ Use the sidebar to input the required details and **instantly view the predicted
 
 ## 🔗 Live Deployment
 
-📍 **Deployed App:** [Click here to try the app](https://your-deployment-link.com)
-*(Replace this link after deployment using platforms like Streamlit Cloud, Heroku, or Render.)*
+📍 **Deployed App:** [Click here to try the app](https://salarypredictiona.streamlit.app/)
 
 ---
 
