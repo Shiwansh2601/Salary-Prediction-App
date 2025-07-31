@@ -1,3 +1,4 @@
+
 # 💼 **Salary Prediction App**
 
 ## 🚀 Overview
@@ -73,15 +74,14 @@ Use the sidebar to input the required details and **instantly view the predicted
 
 ```
 📁 Salary-Prediction-App/
-├── .github/                          # (Optional workflows)
 ├── .gitignore
-├── app.py                            # Streamlit app entry point
-├── requirements.txt                  # Dependency list
-├── Salary_Data.csv                   # Dataset for training
-├── salary_prediction_model.pkl       # Trained Ensemble ML model
+├── app.py
+├── requirements.txt
+├── Salary_Data.csv
+├── salary_prediction_model.pkl
 ├── 01_Salary_Prediction_Model_Comparison.ipynb
 ├── 02_Salary_Prediction_FinalModel_for_App.ipynb
-└── README.md                         # You're here!
+└── README.md
 ```
 
 ---
@@ -116,25 +116,9 @@ Found a bug? Have a suggestion? Feel free to [open an issue](https://github.com/
 
 **Shiwansh Gupta**
 🔗 [GitHub: Shiwansh2601](https://github.com/Shiwansh2601)
-📧 Email: \[[your-email@example.com](mailto:your-email@example.com)]
+📧 Email: [your-email@example.com](mailto:your-email@example.com)
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
-```
-
----
-
-### ✅ Instructions to Finalize:
-1. Replace these placeholders:
-   - `your-banner-path/banner.png`
-   - `your-image-path/notebook-screenshot.png`
-   - `https://your-deployment-link.com`
-   - `your-email@example.com`
-2. Commit this as `README.md` in your GitHub repo.
-
-Would you like me to generate a banner image or screenshots for embedding as well?
-```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9b00e8,100:6e44ff&height=100&section=footer"/>
+</p>
