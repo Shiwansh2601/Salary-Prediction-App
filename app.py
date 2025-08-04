@@ -6,8 +6,7 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder
 
-# --- Training Data (Hardcoded Sample or Replace with actual data)
-# You can replace this with pd.read_csv('your_file.csv') if using a real file
+
 data = {
     'Age': [32, 28, 45, 36, 52],
     'Education Level': ["Bachelor's", "Master's", "PhD", "Bachelor's", "Master's"],
@@ -66,4 +65,4 @@ if st.button("Predict Salary"):
     }])
 
     prediction = model.predict(input_df)[0]
-    st.success(f"💰 Predicted Salary: ${prediction:,.2f}")
+    st.success(f"💰 Predicted Salary: ₹{prediction:,.2f}")
